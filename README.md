@@ -1,3 +1,4 @@
+![Matrix Banner](matrix_github_banner.gif)
 <h1 align="center">Hi 👋, I'm Mustafa Eral</h1>
 <h3 align="center">Naval Architect & Marine Engineer</h3>
 
@@ -102,3 +103,5 @@
 <p align="center">
 ✨ “Engineering the future of the seas.” ⚓
 </p>
+
+<img width="1584" height="396" alt="image" src="https://github.com/user-attachments/assets/96e3e55c-abdd-46fb-95aa-26b7806758bd" />
